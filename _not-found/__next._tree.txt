@@ -1,0 +1,3 @@
+:HL["/tour-and-travel-web/_next/static/chunks/0in~_ctxyaryk.css","style"]
+:HL["/tour-and-travel-web/_next/static/chunks/0ir1tmfedq1bg.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"mA6A48Rm0XQkIPCzYvp7_"}
