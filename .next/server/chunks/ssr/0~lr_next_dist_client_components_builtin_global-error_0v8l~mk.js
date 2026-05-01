@@ -1,0 +1,3 @@
+module.exports=[78963,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(19773);a.n(d("[project]/Downloads/tour-and-travel-web/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},8952,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(19773);a.n(d("[project]/Downloads/tour-and-travel-web/node_modules/next/dist/client/components/builtin/global-error.js"))},79747,a=>{"use strict";a.i(78963);var b=a.i(8952);a.n(b)},64096,a=>{a.n(a.i(79747))}];
+
+//# sourceMappingURL=0~lr_next_dist_client_components_builtin_global-error_0v8l~mk.js.map

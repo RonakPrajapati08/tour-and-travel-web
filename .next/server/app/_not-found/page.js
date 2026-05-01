@@ -1,0 +1,12 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0xa5_a4._.js")
+R.c("server/chunks/ssr/0~lr_next_dist_esm_build_templates_app-page_0coc~lt.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0gud0rn._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0gof_qz._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__0-2neiv._.js")
+R.c("server/chunks/ssr/0~lr_next_dist_client_components_0th_b2r._.js")
+R.c("server/chunks/ssr/0~lr_next_dist_client_components_builtin_forbidden_00rjszm.js")
+R.c("server/chunks/ssr/0~lr_next_dist_client_components_builtin_unauthorized_0m.8sgn.js")
+R.c("server/chunks/ssr/0ipn_tour-and-travel-web__next-internal_server_app__not-found_page_actions_0_56-9p.js")
+R.m(60823)
+module.exports=R.m(60823).exports
